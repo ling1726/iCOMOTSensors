@@ -1,3 +1,4 @@
+# This is an old repository and we nolonger update it. Check our new version at: https://github.com/rdsea/IoTCloudSamples
 # iCOMOTSensors
 This collection includes different types of sensors for different purposes
 - emulated sensors and real sensors
